@@ -1,0 +1,17 @@
+
+{
+  "compilerOptions": {
+    "rootDir":"src",
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "nodenext",
+    "target": "esnext",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+  },
+  "include": [
+    "src"
+  ]
+}
